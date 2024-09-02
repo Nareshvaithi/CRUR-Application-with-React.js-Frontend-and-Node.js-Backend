@@ -1,7 +1,7 @@
 {
   "homepage": "https://github.io/Nareshvaithi/CRUR-Application-with-React.js-Frontend-and-Node.js-Backend",
   "name": "client",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
